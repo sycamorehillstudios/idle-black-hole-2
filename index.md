@@ -1,12 +1,16 @@
 # Privacy Policy for Idle Black Hole 2: Devour
 
-**Last updated:** November 5, 2026
+**Last updated:** November 8, 2026
 
 Sycamore Hill Studios ("we") makes Idle Black Hole 2: Devour ("the game"). This page explains what data the game handles and why.
 
-## No accounts, no servers of our own
+## No accounts or servers of our own
 
-The game has no sign-in, and we run no server for it. Your progress is saved on your device. If you uninstall the game or clear its data, your progress is deleted.
+We don't run an account system or a server for the game. Your progress is saved on your device. If you're signed in to Google Play Games, a copy is also kept in your Play Games saved games (see below); otherwise, uninstalling the game or clearing its data deletes your progress.
+
+## Google Play Games (achievements and cloud save)
+
+The game uses Google Play Games Services. If you have a Play Games profile, the game signs you in automatically when it starts; you can play without it, and you can turn automatic sign-in off in the Play Games settings. While you're signed in, Google receives and stores your Play Games player ID, gamer name and avatar, the achievements you unlock, and a saved copy of your game progress so you can continue on another device. Google also collects analytics and diagnostic data about the Play Games service. This data is handled under [Google's Privacy Policy](https://policies.google.com/privacy). The game shows your gamer name in Settings; we never receive your email address. You can delete this data from your [Play Games profile](https://play.google.com/games/profile) or your [Google Account](https://myaccount.google.com).
 
 ## Ads (Google AdMob)
 
@@ -24,7 +28,7 @@ If you allow them, the game schedules reminders on your device (for example when
 
 ## What we don't do
 
-We don't collect your name, email address, contacts, photos or precise location, and we don't use any analytics service of our own. We don't sell personal data.
+Apart from your Play Games gamer name described above, we don't collect your name, and we don't collect your email address, contacts, photos or precise location. We don't use any analytics service of our own, and we don't sell personal data.
 
 ## Children
 
